@@ -10,6 +10,10 @@
   font-family: 'Josefin Sans', 'sans-serif'
 }
 
+.topImg {
+  cursor: pointer;
+}
+
 .topLeft,
 .topRight {
   flex: 3;
